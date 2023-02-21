@@ -1,0 +1,12 @@
+.login-header .logo-img{
+    width: 100%!important;
+    padding: 0 50px;
+    height:unset!important;
+}
+
+.menu-wrapper .logo .logo-img{
+    width: 100%!important;
+    padding: 10px 5px;
+    height:unset!important;
+    background:#fff;
+}
