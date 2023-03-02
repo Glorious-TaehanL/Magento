@@ -6,6 +6,7 @@ The version currently in use is as follows.
 
 #
 AdminTheme - Change magento admin logo on login
+<br>
 CustomerExtendField - Register custom field on customer registration page
-
+<br>
 
