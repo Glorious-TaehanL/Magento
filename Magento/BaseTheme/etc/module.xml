@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<config>
+    <module name="Magento_BaseTheme" setup_version="0.0.1" />
+</config>

@@ -7,6 +7,9 @@ The version currently in use is as follows.
 #
 AdminTheme - Change magento admin logo on login
 <br>
+BaseTheme - A module that turns on/off js files used in magento
+`app/design/frontend/company/vendor/web/script`
+<br>
 CustomerExtendField - Register custom field on customer registration page
 <br>
 
